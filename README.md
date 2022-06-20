@@ -8,5 +8,14 @@ The projects mainly contain the statistical inferences about the analysis of the
 [Serial Killer Analysis:](https://github.com/Kanchan-Adabala/Statistics-Multivariate-Methods/blob/main/Serial_killer_Analysis.pdf) 
 The analysis was based on a sample of serial killers from the Radford/FGCU serial killer database. This is a short report on the data analysis on serial killer data.
 
-### Reasearch questions:
+#### Reasearch questions:
+
+1) Does the average age at first murder differ between killers with different motives?
+2) Do Killers motivated by anger start at a younger age than those motivated by financial gain, on average?
+3) Do they start at a different age to the general population of the serial killers?
+
+Tools used : R script
+[Multivariate Analysis:](https://github.com/Kanchan-Adabala/Statistics-Multivariate-Methods/blob/main/Multivariate%20Analysis.pdf)
+The data that is collected are various economic , Health and Environmental indicators of various countries which are highly correlated features to separate the countries into various groups according to income or Geographic. The data was analysed using multivariate methods. Dependencies are exploited between the features and Principal component analysis was perfomed and results are interpreted accordingly.
+
 
