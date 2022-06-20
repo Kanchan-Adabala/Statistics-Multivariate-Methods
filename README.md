@@ -5,4 +5,4 @@ This repository consistd of two files Serial Killer analysis and Multivariate an
 The projects mainly contain the statistical inferences about the analysis of the data. R is used to develop the coding for the projects.
 
 ## Contents:
-[Serial Killer Analyss:]([https://www.google.com](https://github.com/Kanchan-Adabala/Statistics-Multivariate-Methods/blob/main/Serial_killer_Analysis.pdf))
+[Serial Killer Analyss:]([https://github.com/Kanchan-Adabala/Statistics-Multivariate-Methods/blob/main/Serial_killer_Analysis.pdf])
