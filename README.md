@@ -27,3 +27,5 @@ The data that is collected are various economic , Health and Environmental indic
 5) Which groups of countries are separable clearly?
 
 Tools used : R script , Rmarkdown.
+
+For any doubt clarifications on my work or for any escalations please contact me on kanchan.pmv@gmail.com 
