@@ -15,7 +15,15 @@ The analysis was based on a sample of serial killers from the Radford/FGCU seria
 3) Do they start at a different age to the general population of the serial killers?
 
 Tools used : R script
+
 [Multivariate Analysis:](https://github.com/Kanchan-Adabala/Statistics-Multivariate-Methods/blob/main/Multivariate%20Analysis.pdf)
 The data that is collected are various economic , Health and Environmental indicators of various countries which are highly correlated features to separate the countries into various groups according to income or Geographic. The data was analysed using multivariate methods. Dependencies are exploited between the features and Principal component analysis was perfomed and results are interpreted accordingly.
 
+### Research Questions:
+1) Any dependency between the variables exist?
+2) How can the data redundancy be handled?
+3) The maximum correlation between the sets of variables?
+4) Which of the indicators are responsible for the maximum correlation?
+5) Which groups of countries are separable clearly?
 
+Tools used : R script , Rmarkdown.
