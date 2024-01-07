@@ -5,7 +5,7 @@ This repository consistd of two files Serial Killer analysis and Multivariate an
 The projects mainly contain the statistical inferences about the analysis of the data. R is used to develop the coding for the projects.
 
 ## Contents:
-[Serial Killer Analysis:](https://github.com/Kanchan-Adabala/Statistics-Multivariate-Methods/blob/main/Serial_killer_Analysis.pdf) 
+[Serial Killer Analysis:](https://github.com/VeeraMummidi/Statistics-Multivariate-Methods/blob/main/Serial_killer%20Analysis.pdf)) 
 The analysis was based on a sample of serial killers from the Radford/FGCU serial killer database. This is a short report on the data analysis on serial killer data.
 
 #### Reasearch questions:
