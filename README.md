@@ -28,4 +28,4 @@ The data that is collected are various economic , Health and Environmental indic
 
 Tools used : R script , Rmarkdown.
 
-For any doubt clarifications on my work or for any escalations please contact me on kanchan.pmv@gmail.com 
+For any doubt clarifications on my work or for any escalations please contact me on veera.mumidi@gmail.com 
