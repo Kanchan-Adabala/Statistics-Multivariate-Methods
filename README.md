@@ -16,7 +16,7 @@ The analysis was based on a sample of serial killers from the Radford/FGCU seria
 
 Tools used : R script
 
-[Multivariate Analysis:](https://github.com/VeeraMummidi/Statistics-Multivariate-Methods)
+[Multivariate Analysis:](https://github.com/VeeraMummidi/Statistics-Multivariate-Methods/blob/main/Multivariate_Analysis.pdf)
 The data that is collected are various economic , Health and Environmental indicators of various countries which are highly correlated features to separate the countries into various groups according to income or Geographic. The data was analysed using multivariate methods. Dependencies are exploited between the features and Principal component analysis was perfomed and results are interpreted accordingly.
 
 ### Research Questions:
