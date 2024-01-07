@@ -5,7 +5,7 @@ This repository consistd of two files Serial Killer analysis and Multivariate an
 The projects mainly contain the statistical inferences about the analysis of the data. R is used to develop the coding for the projects.
 
 ## Contents:
-[Serial Killer Analysis:](https://github.com/VeeraMummidi/Statistics-Multivariate-Methods/blob/main/Serial_killer%20Analysis.pdf)) 
+[Serial Killer Analysis:](https://github.com/VeeraMummidi/Statistics-Multivariate-Methods/blob/main/Serial_killer%20Analysis.pdf) 
 The analysis was based on a sample of serial killers from the Radford/FGCU serial killer database. This is a short report on the data analysis on serial killer data.
 
 #### Reasearch questions:
@@ -16,7 +16,7 @@ The analysis was based on a sample of serial killers from the Radford/FGCU seria
 
 Tools used : R script
 
-[Multivariate Analysis:](https://github.com/Kanchan-Adabala/Statistics-Multivariate-Methods/blob/main/Multivariate%20Analysis.pdf)
+[Multivariate Analysis:](https://github.com/VeeraMummidi/Statistics-Multivariate-Methods)
 The data that is collected are various economic , Health and Environmental indicators of various countries which are highly correlated features to separate the countries into various groups according to income or Geographic. The data was analysed using multivariate methods. Dependencies are exploited between the features and Principal component analysis was perfomed and results are interpreted accordingly.
 
 ### Research Questions:
